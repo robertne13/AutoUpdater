@@ -4,7 +4,7 @@
 Cancel changes
 
 
-<p align='center'><b><a href='https://discord.gg/N2SADVMQQZ'>Discord</a> - <a href='https://ultra-code.tebex.io/package/4986282'>Website</a> </b></h5>
+<p align='center'> - <a href='https://rgamez.net/'>Website</a> </b></h5>
 
 <hr>
 Simple Updater made in c#
