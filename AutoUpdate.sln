@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoUpdate", "AutoUpdate\AutoUpdate.csproj", "{7BC24C37-51CF-47BB-B875-79CBE6537F6E}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Creativos RP Installer", "Creativos RP Installer\Creativos RP Installer.vdproj", "{6D63CB52-A5E9-47E0-912F-D162E10E46B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BC24C37-51CF-47BB-B875-79CBE6537F6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BC24C37-51CF-47BB-B875-79CBE6537F6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BC24C37-51CF-47BB-B875-79CBE6537F6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BC24C37-51CF-47BB-B875-79CBE6537F6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D63CB52-A5E9-47E0-912F-D162E10E46B1}.Debug|Any CPU.ActiveCfg = Debug
+		{6D63CB52-A5E9-47E0-912F-D162E10E46B1}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {263FCF7C-A4A2-4F46-BF61-955D8A74B49C}
+	EndGlobalSection
+EndGlobal
